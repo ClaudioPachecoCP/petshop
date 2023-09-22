@@ -21,6 +21,7 @@ header {
   height: 70px;
   text-align: center;
 }
+
 nav {
   background-color: #333;
   color: #fff;
@@ -53,4 +54,9 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
+}
+
+video {
+  padding: 100px;
+  border-radius: 50px;
 }
